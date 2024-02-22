@@ -1,0 +1,9 @@
+streamlit==1.31.1
+plotly==5.18.0
+xlsxwriter==3.1.9
+streamlit-oauth==0.1.7
+PyJWT==2.8.0
+pyjwt[crypto]
+dataclasses-json==0.6.2
+plotly==5.18.0
+tornado==6.4
